@@ -8,4 +8,6 @@ https://discord.com/oauth2/authorize?client_id=743056607499517952&scope=bot&perm
 https://discord.com/oauth2/authorize?client_id=461171501715161108&permissions=8&scope=bot
 # Wolf Security
 https://discord.com/oauth2/authorize?client_id=752518742692462672&permissions=403712126&scope=bot
+# King Boo
+https://discord.com/oauth2/authorize?client_id=716184051064504320&permissions=8&scope=bot
 # Si no es mucho pedir sale seguirme en GitHub
