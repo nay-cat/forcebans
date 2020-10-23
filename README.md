@@ -1,6 +1,7 @@
 # botsRaiderList
 Get security bot's raiders list
 # All forcebans are real / 24/10/2020
+Invite the bots, all are good security bots
 # SD Security
 https://discord.com/oauth2/authorize?client_id=743056607499517952&scope=bot&permissions=2146958591
 # Discord Safe
